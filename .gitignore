@@ -1,0 +1,13 @@
+node_modules/
+.next/
+out/
+dist/
+.wrangler/
+.pnpm-store/
+.vinext/
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
+.DS_Store
+*.log
